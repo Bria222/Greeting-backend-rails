@@ -1,24 +1,99 @@
-# README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+![](https://img.shields.io/badge/Microverse-blueviolet)
 
-Things you may want to cover:
+# Rails api
 
-* Ruby version
+Use rails  to build greeting api. The app generate random greeting to user
 
-* System dependencies
+## Front end repo 
+[https://github.com/Bria222/Greeting-frontend-react.git](https://github.com/Bria222/Greeting-frontend-react.git/pull/1)
 
-* Configuration
+## Built With
 
-* Database creation
+- [x] Programming Language: Ruby
+- [x] Framework : Ruby on Rails
+- [x] Linter: [Rubocop](https://rubocop.org/)
+- [x] VS Code
 
-* Database initialization
+## [Go live](#)
 
-* How to run the test suite
+## Getting Started
 
-* Services (job queues, cache servers, search engines, etc.)
+You can get a local copy up and running following these simple steps.
 
-* Deployment instructions
+### Prerequisites
 
-* ...
+- [x] A web browser like Google Chrome.
+- [x] A code editor like Visual Studio Code with Git and Ruby.
+
+
+### Install and Usage
+
+In the terminal, go to your file directory and run this command.
+
+> Clone the repository
+```
+$ git clone https://github.com/Bria222/Greeting-backend-rails.git
+```
+```
+$ cd helo-rails-back-end-
+```
+
+### Gemfile Install gem
+ 
+```
+$ bundle install
+$ rails:db seed
+```
+
+> #### Run the app 
+
+#### Rails Backend Server
+```
+   $ rails s -p 3001
+```
+#### React Frontend Server
+```
+ - npm start
+ 
+```
+
+## Rubocop
+> To check linter
+
+```
+$ rubocop --color
+```
+
+## Rspec
+> To run testing 
+```
+$ rspec 
+```
+
+
+👤 **Brian Nyachae**
+
+- GitHub: [@Bria222](https://github.com/Bria222)
+- Twitter: [@Brian-nyachae](https://twitter.com/phayte_p)
+- LinkedIn: [Brian Nyachae](https://linkedin.com/in/brian-nyachae)
+
+## 🤝 Contributing
+
+Contributions, issues, and feature requests are welcome!
+
+Feel free to check the [issues page]
+
+## Show your support
+
+Give a ⭐️ if you like this project!
+
+## Acknowledgments
+
+- [Microverse](https://www.microverse.org/)
+- Coding Partners
+- Code Reviewers
+
+## 📝 License
+
+This project is [MIT](./MIT.md) licensed.
