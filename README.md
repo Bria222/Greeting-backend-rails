@@ -6,7 +6,7 @@
 Use rails  to build greeting api. The app generate random greeting to user
 
 ## Front end repo 
-[https://github.com/Bria222/Greeting-frontend-react.git](https://github.com/Bria222/Greeting-frontend-react.git/pull/1)
+[https://github.com/Bria222/Greeting-frontend-react](https://github.com/Bria222/Greeting-frontend-react/pull/1)
 
 ## Built With
 
